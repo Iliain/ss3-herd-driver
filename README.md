@@ -18,6 +18,6 @@ I recommend adding a symlink for the `Application Support` directory, as the spa
 
 ## Thanks
 
-Thanls to Mattyboddy and his original driver: https://github.com/mattyboddy/valet-silverstripe-driver
+Thanks to Mattyboddy and his original driver: https://github.com/mattyboddy/valet-silverstripe-driver
 
 I took his code and updated it to be compatible with PHP7 and Larevel Herd
