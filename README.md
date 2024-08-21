@@ -14,7 +14,7 @@ I'm not sure if restarting is required, but I would recommend doing so just in c
 
 ## Tips
 
-I recommend adding a symlink for the `Application Support` directory, as the space in the name breaks Silverstripe when attempting to run tasks via sake. I've just setup a symlink in the same folder for `ApplicationSupport` that points to `Appliction Support`
+I recommend adding a symlink for the `Application Support` directory, as the space in the name breaks Silverstripe when attempting to run tasks via sake. I've just setup a symlink in the same folder for `ApplicationSupport` that points to `Application Support`
 
 ## Thanks
 
